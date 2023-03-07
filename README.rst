@@ -1,10 +1,10 @@
-Sample Module Repository
+Companion
 ========================
 
-This simple project is an example repo for Python projects.
+Companion is a customizable desktop chat assistant powered by OpenAI's ChatGPT3 API.
 
-`Learn more <http://www.kennethreitz.org/essays/repository-structure-and-python>`_.
+This project is still in it's early stages, so usage may vary.
 
 ---------------
 
-If you want to learn more about ``setup.py`` files, check out `this repository <https://github.com/kennethreitz/setup.py>`_.
+
