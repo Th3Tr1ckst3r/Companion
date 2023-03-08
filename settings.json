@@ -1,6 +1,6 @@
 {
 	"companionVersion": "1.0.0.0",
-	"theme": "DarkBlue",
+	"theme": "DarkAmber",
 	"openaiApiKey": "",
 	"model": "text-davinci-003",
 	"maxTokens": 150,
